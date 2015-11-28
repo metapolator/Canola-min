@@ -1,20 +1,30 @@
+- message: "No fontinfo found, fallback to minimal (builtin) fontinfo."
+  date: 2015-11-22T02:45:05.130Z
+  level:
+    name: WARNING
+    value: 5
+- message: "No groups.plist file found, thus no glyph classes are defined."
+  date: 2015-11-22T02:45:05.152Z
+  level:
+    name: WARNING
+    value: 5
 - message: Importing groups.plist into the project.
-  date: 2015-04-28T19:01:33.316Z
+  date: 2015-11-22T02:45:05.575Z
   level:
     name: WARNING
     value: 5
 - message: "Import of groups.plist OK.\n"
-  date: 2015-04-28T19:01:33.356Z
+  date: 2015-11-22T02:45:05.588Z
   level:
     name: WARNING
     value: 5
 - message: Importing fontinfo.plist into the project.
-  date: 2015-04-28T19:01:33.357Z
+  date: 2015-11-22T02:45:05.589Z
   level:
     name: WARNING
     value: 5
 - message: "Import of fontinfo.plist OK.\n"
-  date: 2015-04-28T19:01:33.367Z
+  date: 2015-11-22T02:45:05.594Z
   level:
     name: WARNING
     value: 5
